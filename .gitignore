@@ -1,0 +1,5 @@
+# Don't track content of these folders
+model_deploy/
+.idea/
+deploy_ml_model_test.iml
+deployment_model.iml
